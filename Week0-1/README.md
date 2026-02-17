@@ -1,1 +1,3 @@
-Week0-1/README.md
+Basics of C
+Learning how to print hello world
+and learning how to take a user input (string)
